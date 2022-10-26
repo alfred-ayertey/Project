@@ -255,6 +255,10 @@ body {
         margin-left: 230px;
     }
 
+    .sub-1 {
+        justify-content: end;
+    }
+
     .sub-2 {
         flex-direction: row;
         justify-content: space-around;
