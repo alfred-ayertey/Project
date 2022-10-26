@@ -247,6 +247,7 @@ body {
         flex-direction: column;
     }
 
+
     .line-1 {
         max-width: 237px;
         max-height: 36px;
@@ -261,7 +262,7 @@ body {
     }
 
     .head {
-        max-width: 573px;
+        width: 573px;
         max-height: 354px;
     }
 
@@ -275,7 +276,7 @@ body {
     }
 
     .phone-image {
-        width: 281px;
+        width: 350px;
         height: 482px;
     }
 
