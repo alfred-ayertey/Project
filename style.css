@@ -226,6 +226,7 @@ body {
 .icon-facebook {
     max-width: 20px;
     height: 20px;
+    z-index: 3;
 }
 
 .icon-instagram {
@@ -236,6 +237,10 @@ body {
 .icon-twitter {
     max-width: 20px;
     height: 16px;
+}
+
+.social-media-icon > .icon-facebook:hover {
+    background: #858890;
 }
 
 
